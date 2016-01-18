@@ -1,4 +1,4 @@
-# arduino_tut  
+# Arduino in Unity tutorial  
 Welcome to the tutorial for getting the Arduino to work with Unity!  
 
 For this tutorial you will need a 2-Axis Joystick, an Arduino with a placement-board, 8 wires and a computer.  
