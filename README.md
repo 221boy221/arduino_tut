@@ -17,14 +17,14 @@ Start Unity and "Load Project", select our arduino_tut project and wait for it t
 
 You now got the project working, the next thing you need to do is to put the code into your Arduino IDE so you can compile it into the arduino itself.
 
-Open the file "Arduino.ino" which is located in the Scripts folder.
+Open the file "Arduino.ino" which is located in the /Assets/Scripts folder.
 
 Copy and paste the code into your selected Arduino IDE, whether that be the Online Codebender or the local arduino IDE.
 
 Press Compile / Build and your arduino should be good to go!
 
-Get back into Unity and open the Prototype01 scene located in the _Scenes folder.
+Get back into Unity and open the Prototype01 scene located in the /Assets/_Scenes folder.
 
 Press play and enjoy!
 
-Open the file named "InputOutput.cs" if you are interested in the code itself.
+Open the file named "InputOutput.cs" in the /Assets/Scripts folder if you are interested in the code itself.
